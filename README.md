@@ -26,7 +26,7 @@ Mi propósito es conectar **tecnología, datos e inteligencia artificial** para 
 
 ## 💼 Featured Projects
 
-### 🚀 [EVPassport – Salesforce Implementation](projects/evpassport.md)
+### 🚀 [Softerve – Salesforce Implementation]
 Implementation of Sales Cloud, Service Cloud, and Sales Engagement for an EV charging company.  
 Includes automation flows, email sync, cadence setup, and executive dashboards.
 
