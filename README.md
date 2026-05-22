@@ -78,7 +78,7 @@ Developed collaboratively under Agile methodology.
 ---
 
 ## 🎓 Certifications
-
+- Salesforce Agentforce Specialist (2025)
 - Salesforce Certified Administrator (2025)  
 - Salesforce Certified Platform App Builder (2025)  
 - Salesforce Certified AI Associate (2025)  
